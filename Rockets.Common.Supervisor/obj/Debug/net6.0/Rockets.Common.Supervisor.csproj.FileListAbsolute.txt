@@ -1,0 +1,12 @@
+C:\Users\Zeina\source\repos\Rockets.Common.Supervisor\Rockets.Common.Supervisor\bin\Debug\net6.0\Rockets.Common.Supervisor.deps.json
+C:\Users\Zeina\source\repos\Rockets.Common.Supervisor\Rockets.Common.Supervisor\bin\Debug\net6.0\Rockets.Common.Supervisor.dll
+C:\Users\Zeina\source\repos\Rockets.Common.Supervisor\Rockets.Common.Supervisor\bin\Debug\net6.0\ref\Rockets.Common.Supervisor.dll
+C:\Users\Zeina\source\repos\Rockets.Common.Supervisor\Rockets.Common.Supervisor\bin\Debug\net6.0\Rockets.Common.Supervisor.pdb
+C:\Users\Zeina\source\repos\Rockets.Common.Supervisor\Rockets.Common.Supervisor\obj\Debug\net6.0\Rockets.Common.Supervisor.csproj.AssemblyReference.cache
+C:\Users\Zeina\source\repos\Rockets.Common.Supervisor\Rockets.Common.Supervisor\obj\Debug\net6.0\Rockets.Common.Supervisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeina\source\repos\Rockets.Common.Supervisor\Rockets.Common.Supervisor\obj\Debug\net6.0\Rockets.Common.Supervisor.AssemblyInfoInputs.cache
+C:\Users\Zeina\source\repos\Rockets.Common.Supervisor\Rockets.Common.Supervisor\obj\Debug\net6.0\Rockets.Common.Supervisor.AssemblyInfo.cs
+C:\Users\Zeina\source\repos\Rockets.Common.Supervisor\Rockets.Common.Supervisor\obj\Debug\net6.0\Rockets.Common.Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Zeina\source\repos\Rockets.Common.Supervisor\Rockets.Common.Supervisor\obj\Debug\net6.0\Rockets.Common.Supervisor.dll
+C:\Users\Zeina\source\repos\Rockets.Common.Supervisor\Rockets.Common.Supervisor\obj\Debug\net6.0\ref\Rockets.Common.Supervisor.dll
+C:\Users\Zeina\source\repos\Rockets.Common.Supervisor\Rockets.Common.Supervisor\obj\Debug\net6.0\Rockets.Common.Supervisor.pdb

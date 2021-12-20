@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7NswKCYyZhn95oYUE3b+e6KkE9NU8XPhkqPVU9B8wHSh81/n8modjAbNJIt6twiHNjJLk5Dej9OliDTvMUNLzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zeina\\source\\repos\\Rockets.Common.Supervisor\\Rockets.Common.Supervisor\\Rockets.Common.Supervisor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zeina\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Zeina\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Zeina\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

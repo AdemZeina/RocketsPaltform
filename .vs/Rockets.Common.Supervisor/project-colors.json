@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f1f2594-c67c-41ca-88dc-1679180c78e9": {
+      "ProjectGuid": "0f1f2594-c67c-41ca-88dc-1679180c78e9",
+      "DisplayName": "Rockets.Common.Supervisor",
+      "ColorIndex": 0
+    },
+    "a61fbf4b-92bc-4cc2-9fbd-e12177ed3553": {
+      "ProjectGuid": "a61fbf4b-92bc-4cc2-9fbd-e12177ed3553",
+      "DisplayName": "Rockets.Common.Supervisor.UnitTest",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
