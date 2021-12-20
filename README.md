@@ -1,3 +1,3 @@
 # RocketsPaltform
 
-**.Net core 6.0 
+.Net core 6.0 
